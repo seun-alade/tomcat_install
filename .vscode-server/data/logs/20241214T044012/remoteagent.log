@@ -1,0 +1,22 @@
+2024-12-14 04:40:12.177 [info] 
+
+
+
+
+2024-12-14 04:40:12.188 [info] Extension host agent started.
+2024-12-14 04:40:12.235 [info] Started initializing default profile extensions in extensions installation folder. file:///home/ubuntu/.vscode-server/extensions
+2024-12-14 04:40:12.248 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/ubuntu/.vscode-server/extensions
+2024-12-14 04:40:12.338 [info] [<unknown>][2de7f753][ManagementConnection] New connection established.
+2024-12-14 04:40:12.343 [info] [<unknown>][f6b5fb17][ExtensionHostConnection] New connection established.
+2024-12-14 04:40:12.432 [info] [<unknown>][f6b5fb17][ExtensionHostConnection] <1419> Launched Extension Host Process.
+2024-12-14 04:40:23.749 [info] [<unknown>][f6b5fb17][ExtensionHostConnection] <1419> Extension Host Process exited with code: 0, signal: null.
+2024-12-14 04:40:23.750 [info] Cancelling previous shutdown timeout
+2024-12-14 04:40:23.750 [info] Last EH closed, waiting before shutting down
+2024-12-14 04:40:30.784 [info] [<unknown>][678bfa4d][ExtensionHostConnection] New connection established.
+2024-12-14 04:40:30.787 [info] [<unknown>][678bfa4d][ExtensionHostConnection] <1558> Launched Extension Host Process.
+2024-12-14 04:40:30.789 [info] [<unknown>][d21e0f69][ManagementConnection] New connection established.
+2024-12-14 04:40:53.730 [info] [<unknown>][2de7f753][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-12-14 04:45:23.752 [info] New EH opened, aborting shutdown
+2024-12-14 04:45:23.754 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///home/ubuntu/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/server-main.js:184:1060)
+    at process.emit (node:events:530:35)

@@ -1,0 +1,4 @@
+Listening on 127.0.0.1:35351
+[2024-12-14 04:40:30] info Disposed of connection to running server.
+[2024-12-14 04:40:30] info Checking /home/ubuntu/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/log.txt and /home/ubuntu/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/pid.txt for a running server...
+[2024-12-14 04:40:30] info Found running server (pid=1387)
