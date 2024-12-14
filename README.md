@@ -5,8 +5,8 @@ if version the current version is diffrent open tomcat-install and update 10.1.3
 
 to run the script run the below commands
 
-chmod +x install_tomcat.sh
-sudo sh ./install_tomcat.sh
+chmod +x tomcat-installer.sh
+sudo sh ./tomcat-installer.sh
 
 note: 
 it runs on port 8080
